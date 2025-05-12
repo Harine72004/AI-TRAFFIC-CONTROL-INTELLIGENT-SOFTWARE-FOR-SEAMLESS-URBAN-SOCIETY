@@ -1,0 +1,2 @@
+# AI-TRAFFIC-CONTROL-INTELLIGENT-SOFTWARE-FOR-SEAMLESS-URBAN-SOCIETY
+AI Traffic Control is an intelligent traffic management system designed to optimize urban mobility using artificial intelligence and real-time data analytics. This project aims to reduce traffic congestion, minimize emergency vehicle delays, and improve overall road safety by dynamically adjusting traffic signals based on live conditions.
